@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/kaserontarimtakip/kaserontarim-data/releases/download/v1.0.3/Kaseron_Setup_1.0.3.exe",
-  "notes": "Program acikken otomatik guncelleme + Telegram bildirimleri."
+  "version": "1.0.4",
+  "url": "https://github.com/kaserontarimtakip/kaserontarim-data/releases/download/v1.0.4/KaseronTarim_Setup_1.0.4.exe",
+  "notes": "Stok takibi, 3 kisiye kadar Telegram, GDD esik tablosu, son islemler paneli + tarih araligi ve gorunum duzeltmeleri."
 }
