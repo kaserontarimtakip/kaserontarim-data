@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
-  "url": "https://github.com/kaserontarimtakip/kaserontarim-data/releases/download/v1.0.8/KaseronTarim_Setup_1.0.8.exe",
-  "notes": "Yeni tarlaya Google link + ada/parsel; PDF/fatura Chromium ile duzgun; GDD aciklama duzeltildi."
+  "version": "1.0.9",
+  "url": "https://github.com/kaserontarimtakip/kaserontarim-data/releases/download/v1.0.9/KaseronTarim_Setup_1.0.9.exe",
+  "notes": "GDD kurali: formul sonucu 10un altindaysa o gun 0 yazilir."
 }
