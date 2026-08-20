@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/kaserontarimtakip/kaserontarim-data/releases/download/v1.0.1/Kaseron_Setup_1.0.1.exe",
-  "notes": "Destek/iletişim bilgileri, logo ve kurulum iyileştirmeleri."
+  "version": "1.0.2",
+  "url": "https://github.com/kaserontarimtakip/kaserontarim-data/releases/download/v1.0.2/Kaseron_Setup_1.0.2.exe",
+  "notes": "Sıfır kurulum, ilk çalıştırma karşılama, örnek verili demo modu, otomatik günlük bildirim + hava durumu, destek bilgileri."
 }
