@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "url": "https://github.com/kaserontarimtakip/kaserontarim-data/releases/download/v1.0.5/KaseronTarim_Setup_1.0.5.exe",
-  "notes": "Stok takibi, islem silme, urun-arazi uygunlugu, GDD taban 10, muhasebe iscilik, karsilastirma satis ve gorunum duzeltmeleri."
+  "version": "1.0.6",
+  "url": "https://github.com/kaserontarimtakip/kaserontarim-data/releases/download/v1.0.6/KaseronTarim_Setup_1.0.6.exe",
+  "notes": "GDD taban 10 (10 alti = 0) duzeltmesi + yeni urunde otomatik doldurma + harita en altta. v1.0.5 yeniliklerini de icerir."
 }
