@@ -4,5 +4,11 @@
     "active": true,
     "expires": null,
     "sig": "3f85eebc93fca0cb80806e8c50738cf9"
+  },
+  "2766-4ED6-98C3-1ADB": {
+    "customer": "Anıl AKÇAY",
+    "active": true,
+    "expires": "2026-11-18",
+    "sig": "7d342759cd9a31bb83b9edf7593b6b74"
   }
 }
