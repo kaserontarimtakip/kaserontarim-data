@@ -1,5 +1,5 @@
 {
-  "version": "1.0.11",
-  "url": "https://github.com/kaserontarimtakip/kaserontarim-data/releases/download/v1.0.11/KaseronTarim_Setup_1.0.11.exe",
-  "notes": "Kullanici yetki sistemi, isim degistirme, arazi haritasinda bolge gorunumu/sabit harita, bolge duzenleme, coklu not."
+  "version": "1.0.12",
+  "url": "https://github.com/kaserontarimtakip/kaserontarim-data/releases/download/v1.0.12/KaseronTarim_Setup_1.0.12.exe",
+  "notes": "Islemler (sulama/gubre/ilaclama) bakim durumunu ve verim/hasat tahminini etkiler; agac basina su hesabi; alan alani."
 }
