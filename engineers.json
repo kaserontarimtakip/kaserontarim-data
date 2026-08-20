@@ -1,0 +1,22 @@
+[
+  {
+    "ad": "Zir. Müh. Ayşe Yıldız",
+    "uzmanlik": "Meyve · Kiraz/Elma",
+    "bolge": "Konya",
+    "telefon": "0555",
+    "telegram": "@theturk48",
+    "onayli": true,
+    "bitis": null,
+    "chat_id": "7144412533"
+  },
+  {
+    "ad": "Zir. Müh. Mehmet Demir",
+    "uzmanlik": "Bağ · Üzüm",
+    "bolge": "Manisa",
+    "telefon": "0533",
+    "telegram": "@mehmet",
+    "onayli": false,
+    "bitis": null,
+    "chat_id": null
+  }
+]
