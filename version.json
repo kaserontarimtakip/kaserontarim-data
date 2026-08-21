@@ -1,5 +1,5 @@
 {
-  "version": "1.0.12",
-  "url": "https://github.com/kaserontarimtakip/kaserontarim-data/releases/download/v1.0.12/KaseronTarim_Setup_1.0.12.exe",
-  "notes": "Islemler (sulama/gubre/ilaclama) bakim durumunu ve verim/hasat tahminini etkiler; agac basina su hesabi; alan alani."
+  "version": "1.0.13",
+  "url": "https://github.com/kaserontarimtakip/kaserontarim-data/releases/download/v1.0.13/KaseronTarim_Setup_1.0.13.exe",
+  "notes": "Yeni Sulama bolumu: harita uzerinde depo ve vanalar, doluluk cubuklari, otomatik sulama (saat/sure/debi), elle ac-kapat ve geri sayimli sureli sulama (litre/sure/hedef seviye), acik depoda yagis toplama ve tasma uyarisi, depo esik+gunluk durum Telegram bildirimi. Sulama bitki durumu/ET0/takvim/verimi etkiler."
 }
