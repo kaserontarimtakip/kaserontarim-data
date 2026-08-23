@@ -1,5 +1,5 @@
 {
-  "version": "1.0.13",
-  "url": "https://github.com/kaserontarimtakip/kaserontarim-data/releases/download/v1.0.13/KaseronTarim_Setup_1.0.13.exe",
-  "notes": "Yeni Sulama bolumu: harita uzerinde depo ve vanalar, doluluk cubuklari, otomatik sulama (saat/sure/debi), elle ac-kapat ve geri sayimli sureli sulama (litre/sure/hedef seviye), acik depoda yagis toplama ve tasma uyarisi, depo esik+gunluk durum Telegram bildirimi. Sulama bitki durumu/ET0/takvim/verimi etkiler."
+  "version": "1.0.14",
+  "url": "https://github.com/kaserontarimtakip/kaserontarim-data/releases/download/v1.0.14/KaseronTarim_Setup_1.0.14.exe",
+  "notes": "Toprak & yaprak analizi (Arazi/Bitki Olcum) + yillik hatirlatma; Bitki Dikim (dikim duzeni + yas gruplari); agac basina canli sulama + Ozet aktif-sulama gostergesi; coklu vana/depo + cakisma uyarisi + baslangic Telegram; Ozet ve Oneriler dik iki sutun siralanabilir kartlar; Muhasebe Tarim Aletleri; sesli uyari; Gelismis Ayarlar sekmesi."
 }
