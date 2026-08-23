@@ -1,5 +1,5 @@
 {
-  "version": "1.0.14",
-  "url": "https://github.com/kaserontarimtakip/kaserontarim-data/releases/download/v1.0.14/KaseronTarim_Setup_1.0.14.exe",
-  "notes": "Toprak & yaprak analizi (Arazi/Bitki Olcum) + yillik hatirlatma; Bitki Dikim (dikim duzeni + yas gruplari); agac basina canli sulama + Ozet aktif-sulama gostergesi; coklu vana/depo + cakisma uyarisi + baslangic Telegram; Ozet ve Oneriler dik iki sutun siralanabilir kartlar; Muhasebe Tarim Aletleri; sesli uyari; Gelismis Ayarlar sekmesi."
+  "version": "1.0.15",
+  "url": "https://github.com/kaserontarimtakip/kaserontarim-data/releases/download/v1.0.15/KaseronTarim_Setup_1.0.15.exe",
+  "notes": "Vana eklerken Debi Olc modulu (kap doldurma ile L/saat hesabi); sulama bitince aninda Telegram bildirimi; gunluk bildirimde aktif+otomatik sulama ve depo doluluk; kritik su deposu icin ayri Telegram uyarisi."
 }
