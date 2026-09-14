@@ -10,11 +10,5 @@
     "active": true,
     "expires": "2026-11-18",
     "sig": "7d342759cd9a31bb83b9edf7593b6b74"
-  },
-  "31D4-42B1-8AC6-C3EB": {
-    "customer": "Yaren AKÇAY",
-    "active": true,
-    "expires": "2027-01-31",
-    "sig": "66077f2f87382f8f7567b7366aa386af"
   }
 }
